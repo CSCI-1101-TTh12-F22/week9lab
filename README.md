@@ -5,7 +5,7 @@ This week I'd like you to do a few review exercises on data structures (list, tu
 ## Data Structures
 
 ### Basic
-1. Create an empty dictionary.  Use it to map months to the number of days they have. Print out each key-value pair on its own line.
+1. Create a dictionary that map months to the number of days they have. Then print out each key-value pair on its own line.
 
 2. Create a set of 10 celebrities or athletes that you like. Ask a user for their favorite celebrity or athelete. Check to see if that celebrity or athlete is also in your set. If so, print out a message saying you like that person, too.
 
